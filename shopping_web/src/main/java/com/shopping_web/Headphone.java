@@ -1,4 +1,4 @@
-package com.example;
+package com.shopping_web;
 
 public class Headphone {
     private String brand;
